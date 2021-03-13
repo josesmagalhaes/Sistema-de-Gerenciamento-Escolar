@@ -60,3 +60,10 @@ Depois, faça as configurações de bancdo de dados, de acordo com as configura�
 ```
 # Telas do Sistema
 
+![Capturar_2021_03_13_17_18_20_430](https://user-images.githubusercontent.com/31749933/111051789-791c5d80-8434-11eb-97ce-b1f9b87c3aa6.png)
+![Capturar_2021_03_13_17_18_40_684](https://user-images.githubusercontent.com/31749933/111051799-85081f80-8434-11eb-9540-b36e1bcca2e5.png)
+![Capturar_2021_03_13_17_18_51_84](https://user-images.githubusercontent.com/31749933/111051800-876a7980-8434-11eb-9f43-5d34ff2831d7.png)
+![Capturar_2021_03_13_17_19_20_441](https://user-images.githubusercontent.com/31749933/111051801-89ccd380-8434-11eb-97d6-babc965d9c37.png)
+
+
+
