@@ -1,3 +1,6 @@
+![image](https://user-images.githubusercontent.com/31749933/111051892-36a75080-8435-11eb-91fb-9ded355633d2.png)
+
+
 # Sistema-de-Gerenciamento-Escolar
 
 Um Sistema de Gestão Escolar é um sistema de gestão da informação para as instituições de ensino gerenciarem todos os dados dos alunos. Fornece habilidades como matrícula de alunos em aulas, documentação de notas e notas analíticas de cada aluno e outros elementos de avaliação. Além disso, um SMS é usado para planejar os currículos dos alunos, registrar sua frequência e gerenciar todas as necessidades relacionadas aos alunos dentro de uma escola.
